@@ -71,7 +71,7 @@ An `:export` block defines the symbols that are going to exported to the consume
 
 ```js
 module.exports = {
-	"exporedKey": "exportedValue"
+	"exportedKey": "exportedValue"
 }
 ```
 
