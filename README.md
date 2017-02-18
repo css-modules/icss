@@ -86,7 +86,7 @@ The following restrictions are placed on the `:export` syntax:
 The following are desirable for output readability, but not enforced:
 
 - There should be only one `:export` block
-- It should at the top of the file, but after any `:import` blocks
+- It should be located at the top of the file, but after any `:import` blocks
 
 ### :import
 
