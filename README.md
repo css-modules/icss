@@ -31,7 +31,7 @@ Now, whenever `my-component.js` is loaded or bundled, the corresponding CSS is g
 
 ### CSS - JS interoperability
 
-By treating the CSS as a dependency of our JS, we have the opportunity do to something hitherto impossible – **pass variables from CSS to JS**. For example, instead of this:
+By treating the CSS as a dependency of our JS, we have the opportunity to do something hitherto impossible – **pass variables from CSS to JS**. For example, instead of this:
 
 ```js
 // loads the CSS as a side-effect
