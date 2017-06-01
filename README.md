@@ -67,7 +67,7 @@ Interoperable CSS (ICSS) is a superset of standard CSS, making use of two additi
 
 ### :export
 
-An `:export` block defines the symbols that are going to exported to the consumer. It can be thought of functionally equivalent to the following JS:
+An `:export` block defines the symbols that are going to be exported to the consumer. It can be thought of functionally equivalent to the following JS:
 
 ```js
 module.exports = {
